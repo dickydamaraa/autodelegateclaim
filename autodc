@@ -5,7 +5,7 @@ WITHOU_COLOR='\033[0m'
 DELEGATOR_ADDRESS='neutron16walwulrvqaul6995gd03rcqcy7w9ag3tjk2xf'
 VALIDATOR_ADDRESS='neutronvaloper16walwulrvqaul6995gd03rcqcy7w9ag3300nqd'
 PWD='PWD'
-DELAY=3600/4 #in secs - how often restart the script
+DELAY=90000 #in secs - how often restart the script
 ACC_NAME= #example: = ACC_NAME=wallet30
 NODE="tcp://localhost:26657" #change it only if you use another rpc port of your node
 CHAIN_NAME=quark-1
